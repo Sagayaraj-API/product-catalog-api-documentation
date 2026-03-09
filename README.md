@@ -12,6 +12,14 @@ The documentation includes authentication, request parameters, response examples
 
 ---
 
+## Tools Used
+
+- Postman (API testing and documentation)
+- GitHub (documentation hosting)
+- REST API principles
+
+---
+
 ## Base URL
 
 https://api.example.com/v1
