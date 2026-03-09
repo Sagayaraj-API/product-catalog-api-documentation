@@ -5,6 +5,13 @@ The API allows applications to create, retrieve, update, and delete product info
 
 ---
 
+## Project Purpose
+
+This project demonstrates how to design and document a RESTful API using Postman.
+The documentation includes authentication, request parameters, response examples, and common error responses.
+
+---
+
 ## Base URL
 
 https://api.example.com/v1
