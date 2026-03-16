@@ -28,6 +28,19 @@ The documentation includes request examples, response formats, authentication re
 
 ---
 
+## API Endpoints Summary
+
+| Method | Endpoint | Description |
+|--------|---------|------------|
+| GET | /products | Retrieve list of products |
+| GET | /products/{id} | Retrieve product details |
+| POST | /products | Create a new product |
+| PUT | /products/{id} | Update complete product details |
+| PATCH | /products/{id} | Partially update product fields |
+| DELETE | /products/{id} | Delete a product |
+
+---
+
 ## Project Purpose
 
 This project demonstrates how to design and document a RESTful API using Postman.
