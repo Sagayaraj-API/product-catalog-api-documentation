@@ -5,6 +5,16 @@ The API allows applications to create, retrieve, update, and delete product info
 
 ---
 
+## Project Objective
+
+This project demonstrates the design and documentation of a RESTful Product Catalog API.
+
+The API supports complete CRUD operations such as creating products, retrieving product details, updating product information, partially modifying product fields, and deleting products.
+
+The documentation includes request examples, response formats, authentication requirements, HTTP status codes, and common error scenarios to help developers understand how to integrate and use the API effectively.
+
+---
+
 ## Project Purpose
 
 This project demonstrates how to design and document a RESTful API using Postman.
