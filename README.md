@@ -41,6 +41,18 @@ The documentation includes request examples, response formats, authentication re
 
 ---
 
+## Authentication
+
+All API endpoints require authentication using a Bearer Token.
+
+Clients must include the following header in every request:
+
+Authorization: Bearer <access_token>
+
+If the token is missing or invalid, the API will return a *401 Unauthorized* response.
+
+---
+
 ## Project Purpose
 
 This project demonstrates how to design and document a RESTful API using Postman.
