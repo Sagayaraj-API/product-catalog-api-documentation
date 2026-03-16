@@ -53,6 +53,18 @@ If the token is missing or invalid, the API will return a *401 Unauthorized* res
 
 ---
 
+## Common Error Responses
+
+The API may return the following error responses:
+
+- *400 Bad Request* – Invalid or missing request data  
+- *401 Unauthorized* – Missing or invalid authentication token  
+- *404 Not Found* – Requested product resource does not exist  
+
+These error responses help developers understand possible failure scenarios during API integration.
+
+---
+
 ## Project Purpose
 
 This project demonstrates how to design and document a RESTful API using Postman.
