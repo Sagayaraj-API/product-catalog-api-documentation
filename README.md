@@ -65,6 +65,28 @@ These error responses help developers understand possible failure scenarios duri
 
 ---
 
+## Tools and Technologies Used
+
+- Postman (API testing and documentation publishing)
+- REST API principles
+- JSON data format
+- GitHub (documentation hosting and version control)
+- HTTP methods and status codes
+
+---
+
+## Key Learning Outcomes
+
+- Understanding RESTful API architecture and endpoint design
+- Writing developer-friendly API documentation
+- Documenting request parameters and response structures
+- Handling authentication and authorization concepts
+- Explaining HTTP status codes and error scenarios
+- Publishing API documentation using Postman
+- Managing documentation projects using GitHub
+
+---
+
 ## Project Purpose
 
 This project demonstrates how to design and document a RESTful API using Postman.
