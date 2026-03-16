@@ -91,6 +91,8 @@ Postman Documentation:
 
 https://documenter.getpostman.com/view/49265967/2sBXcKCy5s
 
+---
+
 ## API Documentation Screenshots
 
 ### API Overview
