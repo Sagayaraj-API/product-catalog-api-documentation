@@ -15,6 +15,19 @@ The documentation includes request examples, response formats, authentication re
 
 ---
 
+## Features Covered
+
+- RESTful API documentation for Product Catalog Management
+- CRUD operations support (GET, POST, PUT, PATCH, DELETE)
+- Bearer Token Authentication handling
+- Request and response JSON examples
+- HTTP status code documentation (200, 201, 204, 400, 401, 404)
+- Path parameters and query parameters usage
+- Pagination support in product listing
+- Error response handling scenarios
+
+---
+
 ## Project Purpose
 
 This project demonstrates how to design and document a RESTful API using Postman.
