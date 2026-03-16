@@ -94,10 +94,10 @@ https://documenter.getpostman.com/view/49265967/2sBXcKCy5s
 ## API Documentation Screenshots
 
 ### API Overview
-![Overview](Overview SS.png)
+![Overview](Overview-SS.png)
 
 ### Endpoint Structure
-![Endpoints](Endpoint list SS.png)
+![Endpoints](Endpoint-list-SS.png)
 
 ### Create Product Example
 ![Create Product](Post-create-product-example.png)
